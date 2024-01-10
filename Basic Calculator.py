@@ -1,6 +1,6 @@
 num1 = input("Enter first number  :  ")
 num2 = input("Enter second number :  ")
-op      = input("\nEnter Operator ( + , - , / , * ) :  ")
+op   = input("\nEnter Operator ( + , - , / , * ) :  ")
 
 sum = int(num1) + int(num2)
 dif = int(num1) - int(num2)
